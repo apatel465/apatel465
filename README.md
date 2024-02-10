@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arbaz Patel</h1>
-<h3 align="center">Welcome to my GitHub Readme! I am a highly motivated and dedicated professional with a background in Computer Programming and a passion for data analysis. Allow me to give you an insight into my journey and expertise.</h3>
+<h3 align="center">Welcome to my GitHub Readme! I am a highly motivated and dedicated professional with a background in Computer Programming and a passion for Front-End Development. Allow me to give you an insight into my journey and expertise.</h3>
 
-- 🔭 I’m currently working on **Budget planner Project using Excel**
+- 🔭 I’m currently working on **UI Designing**
 
-- 🌱 I’m currently learning **POWER BI and Tableau**
+- 🌱 I’m currently learning **Adobe Photoshop and Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apatel465?tab=repositories](https://github.com/apatel465?tab=repositories)
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **HTML5, CSS3**
 
 - 📫 How to reach me **patelarbaz5253@gmail.com**
 
