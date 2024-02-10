@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbaz Patel</h1>
 <h3 align="center">Welcome to my GitHub Readme! I am a highly motivated and dedicated professional with a background in Computer Programming and a passion for Front-End Development. Allow me to give you an insight into my journey and expertise.</h3>
 
-- 🔭 I’m currently working on **UI Designing**
+- 🔭 I’m currently working on **Website UI Design using Photoshop**
 
 - 🌱 I’m currently learning **Adobe Photoshop and Figma**
 
